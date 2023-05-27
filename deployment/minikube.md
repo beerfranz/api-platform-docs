@@ -52,7 +52,7 @@ It will build and deploy automatically your app in Kubernetes and apply every ch
 
 First, install the skaffold CLI: https://skaffold.dev/docs/install/#standalone-binary
 
-Then, run minikune:
+Then, run minikube:
 
     $ minikube start
 
